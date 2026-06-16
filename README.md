@@ -3,7 +3,7 @@
 A hardware-software IoT system designed using strict Object-Oriented Programming (OOP) paradigms in C++ to log, structure, and display environmental telemetry data in real time.
 
 ## 📸 Live System Showcase
-![Smart Weather Station Setup](assets/weather_station_setup.jpg)
+![Smart Weather Station Setup](assets/smart_weather_station_setup.jpg)
 
 *To see the full functional video walkthrough showing sensor responses to real-world environmental shifts, please watch my live **[Project Demonstration Video on LinkedIn](https://www.linkedin.com/posts/m-waleed-dar-5083a0364_arduino-oop-embeddedsystems-activity-7416025834945249280-06aS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFp4UNgBTVz_KUik2GHUhKYfqNqQoGA73xQ)**.*
 
