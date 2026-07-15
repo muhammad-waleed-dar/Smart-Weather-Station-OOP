@@ -20,6 +20,3 @@ A hardware-software IoT system designed using strict Object-Oriented Programming
 
 ## 📂 Codebase Breakdown
 - `src/SmartWeatherStation-Code.ino` -> Contains the encapsulated header logic, class instantiation, and the core algorithmic loop execution.
-
-
-Minor documentation update.
